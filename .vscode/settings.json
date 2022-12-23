@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "strings.h": "c",
+    "mime.h": "c",
+    "http.h": "c"
+  }
+}
